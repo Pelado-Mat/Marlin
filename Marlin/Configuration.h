@@ -137,7 +137,7 @@
 <<<<<<< HEAD
 // Optional custom name for your RepStrap or other custom machine
 // Displayed in the LCD "Ready" message
-#define CUSTOM_MACHINE_NAME "Ender-3 SKR V1.3"
+#define CUSTOM_MACHINE_NAME "Ender-3 SKR V1.4"
 =======
 // Name displayed in the LCD "Ready" message and Info menu
 //#define CUSTOM_MACHINE_NAME "3D Printer"
