@@ -134,14 +134,11 @@
   #define MOTHERBOARD BOARD_BIGTREE_SKR_V1_3
 #endif
 
-<<<<<<< HEAD
+
 // Optional custom name for your RepStrap or other custom machine
 // Displayed in the LCD "Ready" message
 #define CUSTOM_MACHINE_NAME "Ender-3 SKR V1.4"
-=======
-// Name displayed in the LCD "Ready" message and Info menu
-//#define CUSTOM_MACHINE_NAME "3D Printer"
->>>>>>> bugfix-2.0.x
+
 
 // Printer's unique ID, used by some programs to differentiate between machines.
 // Choose your own or use a service like http://www.uuidgenerator.net/version4
