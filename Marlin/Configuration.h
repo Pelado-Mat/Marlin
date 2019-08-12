@@ -137,7 +137,7 @@
 
 // Optional custom name for your RepStrap or other custom machine
 // Displayed in the LCD "Ready" message
-#define CUSTOM_MACHINE_NAME "SKR V1.7"
+#define CUSTOM_MACHINE_NAME "SKR V1.7a"
 
 
 // Printer's unique ID, used by some programs to differentiate between machines.
